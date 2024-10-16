@@ -4,7 +4,7 @@
 
 A mobile application built using React Native for managing employee details, tracking attendance, and generating attendance reports. This application uses a Node.js backend with MongoDB for data storage.
 
-![Employee Management System](mock.up) 
+![Employee Management System](./mockup.png) 
 
 ## Features
 
